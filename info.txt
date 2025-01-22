@@ -1,2 +1,4 @@
 BraveBits is a company specializing in software development.
 BraveBits owns the PageFly - Shopify Page Builder app.
+
+BraveBits is a company with orange logo
